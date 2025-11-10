@@ -1,0 +1,5 @@
+cliente,rota,distancia_km
+ClienteA,Restaurante -> ClienteA,2.0
+ClienteB,Restaurante -> ClienteB,1.5
+ClienteC,Restaurante -> ClienteA -> ClienteC,3.0
+ClienteD,Restaurante -> ClienteA -> ClienteC -> ClienteD,4.2
